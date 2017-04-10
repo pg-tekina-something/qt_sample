@@ -5,4 +5,5 @@ This is my Qt sample code for study.
 
 | directory  | description |
 |:-----------:|:------------:|
-|controll_qml_from_qml|controlling qml from another qml|
+|controll_qml_from_qml|controlling QML from another QML|
+|qml_glsl_00|GLSL mega demo on QML|
