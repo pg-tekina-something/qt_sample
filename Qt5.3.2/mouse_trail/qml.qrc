@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>touch_trail.png</file>
+        <file>element.qml</file>
+    </qresource>
+</RCC>
