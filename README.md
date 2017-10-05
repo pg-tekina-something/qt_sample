@@ -13,3 +13,4 @@ This is my Qt sample code for study.
 |mouse_trail|mouse trail sample|
 |mouse_trail_01|mouse trail sample|
 |qml_glsl_00|GLSL mega demo on QML|
+|qml_register_type|qmlRegisterType sample|
