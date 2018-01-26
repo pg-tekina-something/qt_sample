@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ReverseOpacityMask.qml</file>
+        <file>mask.png</file>
+        <file>SourceProxy.qml</file>
+    </qresource>
+</RCC>
